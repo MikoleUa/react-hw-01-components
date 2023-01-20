@@ -1,0 +1,32 @@
+.profile {
+  align-items: center;
+  text-align: center;
+  width: fit-content;
+  background-color: white;
+  margin: auto;
+  padding: 0;
+  margin-bottom: 20px;
+  border: 2px solid rgb(212, 209, 209);
+}
+.avatar {
+  border-radius: 50%;
+  width: 355px;
+}
+.description {
+}
+.stats {
+  display: flex;
+  padding: 0;
+  margin: auto;
+  background-color: rgba(253, 253, 253, 0.908);
+  border: 1px solid rgba(219, 219, 219, 0.887);
+}
+.stats li {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+
+  border: 1px solid rgba(219, 219, 219, 0.887);
+  padding: 10px 0;
+  flex: 3;
+}

@@ -1,0 +1,23 @@
+.item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid grey;
+  padding-right: 30px;
+}
+.isOnline {
+  display: flex;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+.isOfline {
+  display: flex;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: red;
+}

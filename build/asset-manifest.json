@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MikoleUa/react-hw-01-components/static/css/main.328a21bf.css",
+    "main.js": "/MikoleUa/react-hw-01-components/static/js/main.85b4353c.js",
+    "static/js/787.314cfcaa.chunk.js": "/MikoleUa/react-hw-01-components/static/js/787.314cfcaa.chunk.js",
+    "index.html": "/MikoleUa/react-hw-01-components/index.html",
+    "main.328a21bf.css.map": "/MikoleUa/react-hw-01-components/static/css/main.328a21bf.css.map",
+    "main.85b4353c.js.map": "/MikoleUa/react-hw-01-components/static/js/main.85b4353c.js.map",
+    "787.314cfcaa.chunk.js.map": "/MikoleUa/react-hw-01-components/static/js/787.314cfcaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328a21bf.css",
+    "static/js/main.85b4353c.js"
+  ]
+}
